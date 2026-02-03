@@ -1,8 +1,5 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl4Z2s0bnN5dm4zYnF4Y3B4Y3B4Y3B4Y3B4Y3B4Y3B4Y3B4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="header" />
-
-  <h1>
     Hi there, I'm <span style="color: #79c0ff;">PeerawatProject14</span>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   </h1>
   <a href="https://git.io/typing-svg">
