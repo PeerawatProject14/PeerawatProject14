@@ -14,6 +14,12 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 <br>
 
+<h3>My Contributions 📈</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PeerawatProject14&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+
+<br>
+<br>
+
 <h3>Technology Stack 🔨</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,7 +34,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 <br>
 
-<h3>contact 📞</h3>
+<h3>Contact 📞</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/peerawat-banpahan-78a297380/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Peerawat" /></a>
 <a href="mailto:peerawatwork2024@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
