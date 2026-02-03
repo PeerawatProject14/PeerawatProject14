@@ -7,9 +7,6 @@ Creative Developer | AI Enthusiast | Tech Lover
 ### 📊 GitHub Stats
 ![PeerawatProject14's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeerawatProject14&theme=tokyonight)
 
-### 🔥 Streak
-![PeerawatProject14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeerawatProject14&theme=tokyonight)
-
 ### 💻 Languages Used
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PeerawatProject14&theme=tokyonight)
 
