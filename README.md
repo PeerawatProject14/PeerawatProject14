@@ -27,10 +27,8 @@ I love to explore new technologies and leverage them to solve real-life problems
 </p>
 
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeerawatProject14&theme=radical&hide_border=true" alt="PeerawatProject14's Streak" />
 
-<br><br>
-
+<h3>contact 📞</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/peerawat-banpahan-78a297380/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Peerawat" /></a>
 <a href="mailto:peerawatwork2024@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
