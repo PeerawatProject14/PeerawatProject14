@@ -4,7 +4,6 @@
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=PeerawatProject14&label=Profile%20Views&color=0e75b6&style=flat" alt="ovje" />
-<img src="https://img.shields.io/github/languages/count/PeerawatProject14/PeerawatProject14?label=Languages&style=flat&color=0e75b6" />
 </p>
 
 <h3>I'm a passionate Web Developer & AI Enthusiast 🚀</h3>
