@@ -5,13 +5,13 @@ Creative Developer | AI Enthusiast | Tech Lover
 ---
 
 ### 📊 GitHub Stats
-![PeerawatProject14's Stats](https://github-readme-stats.vercel.app/api?username=PeerawatProject14&show_icons=true&theme=tokyonight)
+![PeerawatProject14's Stats](https://github-readme-stats.vercel.app/api?username=PeerawatProject14&show_icons=true)
 
 ### 🔥 Streak
-![PeerawatProject14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeerawatProject14&theme=tokyonight)
+![PeerawatProject14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeerawatProject14)
 
 ### 💻 Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeerawatProject14&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeerawatProject14&layout=compact)
 
 ---
 
