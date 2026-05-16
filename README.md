@@ -209,10 +209,7 @@ Exploring **UE5** for cinematic visualization and digital twins — Lumen, Nanit
 
 ### GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=PeerawatProject14&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeerawatProject14&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&langs_count=8" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeerawatProject14&hide_border=true&background=0a192f&stroke=1e3a8a&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" width="65%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PeerawatProject14&theme=react-dark&bg_color=0a192f&color=64ffda&line=1e3a8a&point=ccd6f6&hide_border=true&area=true" width="100%" />
 
 </div>
 
