@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=240&section=header&text=Peerawat%20Banpahan&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%203D%20%26%20Geospatial%20%C2%B7%20IoT%20%C2%B7%20AI&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=240&section=header&text=Peerawat%20Banpahan&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%203D%20Geospatial%20%7C%20IoT%20%7C%20AI&descAlignY=58&descSize=18)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=PeerawatProject14&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="views" />
