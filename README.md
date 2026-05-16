@@ -1,10 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1e3a8a&height=260&section=header&text=Peerawat%20Banpahan&fontSize=68&fontColor=e6f1ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%203D%20%26%20Geospatial%20%C2%B7%20IoT%20%C2%B7%20AI&descAlignY=58&descSize=18&descColor=8892b0)
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=720&lines=Building+production-grade+web+%26+3D+systems;Cesium+%E2%80%A2+Three.js+%E2%80%A2+Unreal+Engine+5;Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+InfluxDB;RAG+pipelines+%E2%80%A2+IoT+%E2%80%A2+Realtime+Dashboards" alt="typing" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=240&section=header&text=Peerawat%20Banpahan&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%203D%20%26%20Geospatial%20%C2%B7%20IoT%20%C2%B7%20AI&descAlignY=58&descSize=18)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=PeerawatProject14&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="views" />
@@ -22,12 +18,7 @@
 
 </div>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I'm a **Full-Stack Developer** focused on building real-world platforms that combine
-**web, 3D visualization, geospatial data, and IoT**.
+I'm a **Full-Stack Developer** focused on building real-world platforms that combine **web, 3D visualization, geospatial data, and IoT**.
 
 - 🛰️  Building **3D digital-twin & geospatial** platforms with **Cesium / Three.js / Unreal Engine 5**
 - ⚙️  Designing **scalable Node.js / Next.js** systems backed by **PostgreSQL & InfluxDB**
@@ -35,24 +26,11 @@ I'm a **Full-Stack Developer** focused on building real-world platforms that com
 - 🧠  Shipping **RAG / LLM** pipelines with **FastAPI, Qdrant, Ollama**
 - 🇹🇭  Based in Thailand · open to collaboration & freelance
 
-</td>
-<td width="40%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PeerawatProject14&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda&ring_color=64ffda" width="100%" />
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
 
 ### Tech Stack
-
-</div>
-
-<div align="center">
 
 **Languages**
 
@@ -142,7 +120,9 @@ I'm a **Full-Stack Developer** focused on building real-world platforms that com
 
 <div align="center">
 
-### Featured Projects
+### What I've Built
+
+*All client projects are under NDA — details below describe project category and stack only.*
 
 </div>
 
@@ -150,19 +130,17 @@ I'm a **Full-Stack Developer** focused on building real-world platforms that com
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ Araya — The Eastern Gateway
-A **3D digital-twin platform** for the Eastern Economic Corridor: an interactive
-Cesium globe with live CCTV pins, MQTT telemetry, and authored 3D scenes.
+#### 🛰️ 3D Digital-Twin Platform
+Interactive Cesium globe with live CCTV pins, MQTT telemetry, and authored 3D scenes for a regional infrastructure deployment.
 
-`Next.js 15` · `React 19` · `CesiumJS` · `Zustand` · `SWR`
+`Next.js` · `React` · `CesiumJS` · `Zustand` · `SWR`
 `Express` · `PostgreSQL` · `Sequelize` · `MQTT` · `InfluxDB` · `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 PRM RAG Chatbot
-Retrieval-Augmented-Generation chatbot for internal documents — Thai/English,
-PDF-aware, with reranking and a streaming chat UI.
+#### 🤖 RAG Chatbot for Internal Documents
+Retrieval-Augmented-Generation chatbot — Thai/English, PDF-aware, with reranking and a streaming chat UI.
 
 `FastAPI` · `Qdrant` · `FlagEmbedding` · `Ollama` · `PyThaiNLP`
 `Next.js` · `pdfplumber` · `Pandas`
@@ -172,57 +150,52 @@ PDF-aware, with reranking and a streaming chat UI.
 <tr>
 <td width="50%" valign="top">
 
-#### 💼 PRM Sales CRM — Deals Pipeline
-End-to-end Sales CRM with a kanban deals pipeline, role-based admin, and
-generated PDF user manuals.
+#### 💼 Sales CRM / Deals Pipeline
+End-to-end CRM with kanban deals pipeline, role-based admin, and generated PDF user manuals.
 
-`Next.js 14` · `React 18` · `Express` · `PostgreSQL` · `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛒 PRM Store
-Modern e-commerce platform — product catalog, cart, orders, and admin tooling.
-
-`Next.js 16` · `React 19` · `Express 5` · `Tailwind CSS` · `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ⏱️ PRM Timesheet
-Internal time-tracking & approval workflow with Postman-tested API and
-role-based middleware.
-
-`Next.js 16` · `Express` · `JWT` · `PostgreSQL`
+`Next.js` · `React` · `Express` · `PostgreSQL` · `REST API`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🚻 Smart Toilet — Digital Signage
-IoT + digital-signage stack for smart restrooms using Xibo CMS, sensor
-telemetry, and time-series storage.
+#### 🛒 E-Commerce Platform
+Modern storefront — product catalog, cart, order management, and admin tooling.
 
-`Docker Compose` · `Xibo CMS` · `MySQL` · `MQTT` · `InfluxDB` · `Grafana`
+`Next.js` · `React` · `Express` · `Tailwind CSS` · `MySQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 💧 WMA — Wastewater Management Authority
-Engineering documentation, datasheets, and material-approval workflow for a
-wastewater-management deployment.
+#### ⏱️ Internal Time-Tracking System
+Time-tracking & approval workflow with role-based middleware and a tested REST API.
+
+`Next.js` · `Express` · `JWT` · `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚻 IoT + Digital-Signage Stack
+Smart-facility platform combining digital signage, sensor telemetry, and time-series dashboards.
+
+`Docker Compose` · `MQTT` · `MySQL` · `InfluxDB` · `Grafana`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💧 Engineering Documentation Workflow
+Datasheets, BOQ, and material-approval workflow for an industrial-utility deployment.
 
 `Documentation` · `BOQ` · `Material Approve` · `Datasheets`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎮 Unreal Engine 5 — R&D
-Exploring **UE5** for cinematic visualization and digital twins — Lumen,
-Nanite, and pixel-streaming integration with web clients.
+#### 🎮 Real-Time 3D Visualization R&D
+Exploring **UE5** for cinematic visualization and digital twins — Lumen, Nanite, and pixel-streaming integration with web clients.
 
 `Unreal Engine 5` · `C++` · `Blueprints` · `Pixel Streaming`
 
@@ -236,11 +209,10 @@ Nanite, and pixel-streaming integration with web clients.
 
 ### GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeerawatProject14&hide_border=true&background=0a192f&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" width="65%" />
+<img src="https://github-readme-stats.vercel.app/api?username=PeerawatProject14&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeerawatProject14&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&langs_count=8" width="38%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PeerawatProject14&theme=react-dark&bg_color=0a192f&color=64ffda&line=1e3a8a&point=ccd6f6&hide_border=true&area=true" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeerawatProject14&layout=compact&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeerawatProject14&hide_border=true&background=0a192f&stroke=1e3a8a&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" width="65%" />
 
 </div>
 
@@ -262,6 +234,6 @@ Nanite, and pixel-streaming integration with web clients.
 
 <br/><br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:112240,100:0a192f&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=120&section=footer)
 
 </div>
