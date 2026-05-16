@@ -4,8 +4,14 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=PeerawatProject14&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="views" />
-  <a href="https://www.linkedin.com/in/peerawat-banpahan-78a297380/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:peerawatwork2024@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/peerawat-banpahan-78a297380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/phiirwatz/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/phiirwatz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:peerawatwork2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+66971878230"><img src="https://img.shields.io/badge/Phone-097--187--8230-1e3a8a?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 </div>
@@ -222,8 +228,17 @@ Exploring **UE5** for cinematic visualization and digital twins — Lumen, Nanit
 <a href="https://www.linkedin.com/in/peerawat-banpahan-78a297380/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.facebook.com/phiirwatz/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/phiirwatz/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <a href="mailto:peerawatwork2024@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+66971878230">
+  <img src="https://img.shields.io/badge/Phone-097--187--8230-1e3a8a?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://github.com/PeerawatProject14">
   <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=white" />
