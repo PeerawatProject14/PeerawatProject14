@@ -77,6 +77,8 @@ I'm a **Full-Stack Developer** focused on building real-world platforms that com
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-1e3a8a?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
 **Databases & Data**
